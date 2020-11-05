@@ -13,7 +13,7 @@ VTT 3세부에서 수행하는 주 업무인 Metadata 생성에 대한 주제로
 ## 컨트리뷰톤 진행 내용
 
 - 제출 경로
-  - `submit` 폴더에 `'소속'_'이름'_'버전'.json` 으로 업로드
+  - `submit` 폴더에 `'소속'_'이름'_'버전'.json` 으로 업로드 (ex: ./submit/코난_강은철_v.1.0.json)
 
 - 예시 Metadata JSON 설명 - 주요 Key 설명
   - visual_results : 시각 정보
