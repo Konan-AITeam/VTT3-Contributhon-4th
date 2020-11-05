@@ -10,9 +10,12 @@ VTT 3세부에서 수행하는 주 업무인 Metadata 생성에 대한 주제로
   - 일시 : 2020년 11월 13일 15:00 (예정)
   - 장소 : [Zoom](https://zoom.us/j/95285782221?pwd=VVNtTXVlU094UkhlR1VZR0I3eURBdz09) 또는 회의실(추후 통보)
 
+## 컨트리뷰톤 진행 내용
 
+- 제출 경로
+  - `submit` 폴더에 `'소속'_'이름'_'버전'.json` 으로 업로드
 
-- 예시 Metadata JSON 설명
+- 예시 Metadata JSON 설명 - 주요 Key 설명
   - visual_results : 시각 정보
   ``` json
     "st": "00:02:41.454", # 발화 시작 시간
