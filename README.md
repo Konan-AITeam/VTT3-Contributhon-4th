@@ -43,7 +43,7 @@ VTT 3세부에서 수행하는 주 업무인 Metadata 생성에 대한 주제로
     "q_level_logic": 3,
     "que": "How does Haeyoung1 feel?", # 질문
     "true_ans": "Haeyoung1 is so sad.", # 정답
-    "false_ans": [ # 오답셋
+    "false_ans": [ # 오답 셋
       "Haeyoung1 feels so happy.",
       "Haeyoung1 looks so satisfied.",
       "Haeyoung1 is so excited.",
