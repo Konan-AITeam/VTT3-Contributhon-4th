@@ -8,7 +8,7 @@ VTT 3세부에서 수행하는 주 업무인 Metadata 생성에 대한 주제로
 
 - 시상식 및 결과 발표
   - 일시 : 2020년 11월 13일 14:00
-  - 장소 : [Zoom](https://zoom.us/j/95285782221?pwd=VVNtTXVlU094UkhlR1VZR0I3eURBdz09) 또는 회의실(추후 통보)
+  - 장소 : [Zoom](https://zoom.us/j/95285782221?pwd=VVNtTXVlU094UkhlR1VZR0I3eURBdz09) 또는 강남역 모임플러스 강의실3
 
 ## 컨트리뷰톤 진행 내용
 
