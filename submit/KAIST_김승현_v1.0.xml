@@ -1,0 +1,1 @@
+<annotation><folder>VOC2007</folder><filename>AnotherMissOh01_001_0078_IMAGE_0000004311</filename><segmented>0</segmented><size><width>1280</width><height>720</height><depth>3</depth></size><object><bndbox><xmin>606</xmin><ymin>27</ymin><xmax>984</xmax><ymax>769</ymax></bndbox><name>person</name><difficult>0</difficult><truncated>0</truncated></object></annotation>
