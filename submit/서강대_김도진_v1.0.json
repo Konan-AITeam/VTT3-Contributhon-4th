@@ -1,0 +1,27 @@
+{
+    "script": {
+        "speakers": ["Dokyung", "Haeyoung1", ...],
+        "Dokyung": [
+            {
+                "st": "00:02:41.454", 
+                "et": "00:02:42.994", 
+                "utter": "Okay, cut."
+            }, {
+                "st": "00:23:56.404", 
+                "et": "00:23:57.622", 
+                "utter": "Get away from me(Dokyung), you(Jinsang) pervert."
+            }
+        ],
+        "Haeyoung1": [
+            {
+                "st": "00:12:41.454", 
+                "et": "00:12:42.994", 
+                "utter": "Okay, cut."
+            }, {
+                "st": "00:33:56.404", 
+                "et": "00:33:57.622", 
+                "utter": "Get away from me(Dokyung), you(Jinsang) pervert."
+            }
+        ]
+    }
+}
