@@ -1,0 +1,18 @@
+
+"related_objects" 는 삭제하고, "object"로 통합
+
+{
+    "objects": [
+        {
+            "person_id": "Haeyoung1",
+            "object_id": "cup",
+            "score": "0.9",
+            "object_rect": {
+                "min_x": 606,
+                "min_y": 27,
+                "max_x": 984,
+                "max_y": 769
+            }
+        }
+    ]
+}
