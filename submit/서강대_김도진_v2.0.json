@@ -1,0 +1,22 @@
+{
+    "sound_results": {
+        "background_music": [
+            {
+                "start_time": "00:00:00.347",
+                "end_time": "00:00:30.83"
+            }, {
+                "start_time": "00:00:30.429",
+                "end_time": "00:02:41.382"
+            }
+        ],
+        "none": [
+            {
+                "start_time": "00:00:00.347",
+                "end_time": "00:00:30.83"
+            }, {
+                "start_time": "00:00:30.429",
+                "end_time": "00:02:41.382"
+            }
+        ]
+    }
+}
