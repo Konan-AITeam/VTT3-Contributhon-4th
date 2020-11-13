@@ -1,0 +1,92 @@
+﻿{
+  "file_name": "AnotherMissOh01.mp4",
+  "qa_results": {
+    "scene": [
+      {
+        "vid": "AnotherMissOh01_001_0000",
+        "shot_contained": [
+          78,
+          79,
+          80,
+          158,
+          159
+        ],
+        "description": "Haeyoung1 walks into the house. Deogi asks Jeongsuk to try to taste the food. Jeongsuk says the food is great. Deogi is cooking on the floor. Jeongsuk asks Kyungsu if Kyungsu needs more food. Deogi carries the plate and puts it on the table. Deogi offers the pancakes to her mother.",
+        "qaInfo": [
+          {
+            "qid": 1087,
+            "qa_level": 4,
+            "q_level_mem": 3,
+            "q_level_logic": 4,
+            "que": "Why did Deogi make food a lot?",
+            "true_ans": "Because Deogi wanted to receive the guest after the wedding ceremony.",
+            "false_ans": [
+              "Because Deogi eats food a lot.",
+              "Because Deogi wanted to share the food with her neighborhoods.",
+              "Because Deogi would sell the food at the store.",
+              "Because Deogi likes cooking."
+            ]
+          },
+          {
+            "qid": 1088,
+            "qa_level": 4,
+            "q_level_mem": 3,
+            "q_level_logic": 4,
+            "que": "Why did Deogi hit Haeyoung1's head?",
+            "true_ans": "Because Haeyoung1 said Haeyoung1 won't get married.",
+            "false_ans": [
+              "Because Haeyoung1 said Haeyoung2 won't get married.",
+              "Because Haeyoung1 said Anna won't get married.",
+              "Because Haeyoung1 said Jinsang won't get married.",
+              "Because Haeyoung1 said Seohee won't get married."
+            ]
+          }
+        ]
+      }
+    ],
+    "shot": [
+      {
+        "vid": "AnotherMissOh01_001_0078",
+        "shot_contained": 78,
+        "description": "Haeyoung1 is wearing a blue shirt.",
+        "qaInfo": [
+          {
+            "qid": 995169,
+            "qa_level": 1,
+            "q_level_mem": 2,
+            "q_level_logic": 1,
+            "que": "What is the color of Haeyoung1's shirt?",
+            "true_ans": "Haeyoung1's shirt is blue.",
+            "false_ans": [
+              "Haeyoung1's shirt is pink.",
+              "Haeyoung1's shirt is green.",
+              "Haeyoung1's shirt is yellow.",
+              "Haeyoung1's shirt is purple."
+            ]
+          }
+        ]
+      },
+      {
+        "vid": "AnotherMissOh01_001_0082",
+        "shot_contained": 82,
+        "description": "Deogi is holding a spoon.",
+        "qaInfo": [
+          {
+            "qid": 995209,
+            "qa_level": 1,
+            "q_level_mem": 2,
+            "q_level_logic": 1,
+            "que": "Who is holding a spoon?",
+            "true_ans": "Deogi is holding a spoon.",
+            "false_ans": [
+              "Yijoon is holding a spoon.",
+              "Sukyung is holding a spoon.",
+              "Kyungsu is holding a spoon.",
+              "Heeran is holding a spoon."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
